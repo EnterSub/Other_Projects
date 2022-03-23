@@ -1,2 +1,2 @@
 # SQL
-Some SQL queries for training and keep SQL knowledge
+Some SQL queries resualts of learinig / training in SQL dialects
