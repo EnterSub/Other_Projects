@@ -1,2 +1,2 @@
 # SQL
-Some SQL queries resualts of learinig / training in SQL dialects
+Some SQL queries resualts of learinig / training in dialects
