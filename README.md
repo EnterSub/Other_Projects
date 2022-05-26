@@ -1,2 +1,2 @@
-# SQL
-Some queries results of learinig / training in SQL dialects
+# Other projects
+Some public projects
