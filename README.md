@@ -1,5 +1,5 @@
 # Some public projects.
-[Rental project](http://workinds.com:8502/)
+[Rental project](https://rentalproject.workinds.com)
 
 Source:
 
