@@ -1,4 +1,4 @@
-# Some public projects.
+# Public projects
 [Rental project](https://rentalproject.workinds.com)
 
 Source:
